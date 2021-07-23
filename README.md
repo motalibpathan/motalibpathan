@@ -3,10 +3,7 @@
 <!--- - 👀 I’m interested in ... --->
 - 🌱 I’m currently learning MERN Stack
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me:
-
-<a href="http://facebook.com"> Facebook </a> 
-<a href="https://www.linkedin.com/in/motalib-pathan-301846144/"> LinkedIn </a> 
+- 📫 How to reach me: <a href="http://facebook.com"> Facebook </a> <a href="https://www.linkedin.com/in/motalib-pathan-301846144/"> LinkedIn </a> 
 <a href="https://twitter.com/motalibpathan11"> Twitter </a> 
 
 <!---
