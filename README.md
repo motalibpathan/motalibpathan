@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about MERN
 - 🔭 I’m currently studying at South East University
-- 📝 Checkout my <a target="_blank" href="https://drive.google.com/drive/folders/13bxR0kXBO_NRij-DBg51hgJqgFMHSbN-?usp=sharing">Resume.</a>
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1swgpUH9eQijyP7hRAOA4TkxHHwx12jCN/view?usp=sharing)
   <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
   <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
