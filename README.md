@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Next.js TypeScript 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about More deep about Backend, Prisma, and Postgresql.
-- 🔭 I have completed graduation from South East University
+- 🔭 I have completed BSc in CSE from South East University
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1swgpUH9eQijyP7hRAOA4TkxHHwx12jCN/view?usp=sharing)
   <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
   <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
