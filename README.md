@@ -67,6 +67,31 @@
 <br />
 <br />
 
+### New Year Technology Learning Resolutions (2024)
+
+| Technology             | Already Know | In 2023               | In 2024                        |
+|------------------------|--------------|-----------------------|--------------------------------|
+| HTML                   | Yes          |                       |                                |
+| CSS                    | Yes          |                       |                                |
+| Tailwind CSS           | Yes          |                       |                                |
+| Bootstrap              | Yes          |                       |                                |
+| JavaScript             | Yes          |                       |                                |
+| React Js               | Yes          |                       |                                |
+| Node.js, Express.js    | Yes          |                       |                                |
+| Typescript             |              | Yes                   | Advance TypeScript             |
+| MongoDB                |              | Yes                   |                                |
+| SQL                    | Yes          |                       | SQLite                         |
+| Next.js                |              | Yes                   | Next.js App Router             |
+| React Native           |              | Yes                   |                                |
+| Styled Components      |              | Yes                   |                                |
+| Ant Design             |              | Yes                   |                                |
+| Prisma                 |              |                       | Yes                            |
+| GraphQL                |              |                       | Yes                            |
+| PostgreSQL             |              |                       | Yes                            |
+| Docker and AWS         |              |                       | Yes                            |
+| Rust                   |              |                       | Yes                            |
+
+
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary> -->
 
@@ -101,3 +126,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
