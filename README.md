@@ -71,25 +71,27 @@
 
 | Technology             | Already Know | In 2023               | In 2024                        |
 |------------------------|--------------|-----------------------|--------------------------------|
-| HTML                   | Yes          |                       |                                |
-| CSS                    | Yes          |                       |                                |
-| Tailwind CSS           | Yes          |                       |                                |
-| Bootstrap              | Yes          |                       |                                |
-| JavaScript             | Yes          |                       |                                |
-| React Js               | Yes          |                       |                                |
-| Node.js, Express.js    | Yes          |                       |                                |
-| Typescript             |              | Yes                   | Advance TypeScript             |
-| MongoDB                |              | Yes                   |                                |
-| SQL                    | Yes          |                       | SQLite                         |
-| Next.js                |              | Yes                   | Next.js App Router             |
-| React Native           |              | Yes                   |                                |
-| Styled Components      |              | Yes                   |                                |
-| Ant Design             |              | Yes                   |                                |
-| Prisma                 |              |                       | Yes                            |
-| GraphQL                |              |                       | Yes                            |
-| PostgreSQL             |              |                       | Yes                            |
-| Docker and AWS         |              |                       | Yes                            |
-| Rust                   |              |                       | Yes                            |
+| HTML                   | ✅           |                       |                                |
+| CSS                    | ✅           |                       |                                |
+| Tailwind CSS           | ✅           |                       |                                |
+| Bootstrap              | ✅           |                       |                                |
+| JavaScript             | ✅           |                       |                                |
+| React Js               | ✅           |                       |                                |
+| Node.js, Express.js    | ✅           |                       |                                |
+| MongoDB                | ✅           |                       |                                |
+| SQL                    | ✅           |                       | ☐ SQLite                       |
+| React Native           |              | ✅                    |                                |
+| Typescript             |              | ✅                    | ☐ Advance TypeScript          |
+| Next.js                |              | ✅                    | ☐ Next.js App Router          |
+| React Native           |              | ✅                    |                                |
+| Styled Components      |              | ✅                    |                                |
+| Ant Design             |              | ✅                    |                                |
+| Prisma                 |              |                       | ☐ Yes                          |
+| GraphQL                |              |                       | ☐ Yes                          |
+| PostgreSQL             |              |                       | ☐ Yes                          |
+| T3 Stack               |              |                       | ☐ tRPC, Prisma, NextAuth       |
+| Docker and AWS         |              |                       | ☐ Yes                          |
+| Rust                   |              |                       | ☐ Yes                          |
 
 
 <!-- <details>
