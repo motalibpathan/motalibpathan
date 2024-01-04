@@ -127,7 +127,6 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-
-[![Motalibs's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=motalibpathan)](https://github.com/anuraghazra/github-readme-stats)
+[![Motalibs's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=motalibpathan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
