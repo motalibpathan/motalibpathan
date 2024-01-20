@@ -92,7 +92,7 @@
 | T3 Stack               |              |                       | ☐ tRPC, Prisma, NextAuth       |
 | Docker and AWS         |              |                       | ☐ Yes                          |
 | Rust                   |              |                       | ☐ Yes                          |
-
+| Ai/Machine Learning    |              |                       | ☐ Yes                          |
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary> -->
