@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2024 Goals: Learn more about More deep about Next.js App Router, Prisma, GraphQL, Postgresql, Docker and AWS.
 - 🔭 I have completed a BSc in CSE from South East University.
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1swgpUH9eQijyP7hRAOA4TkxHHwx12jCN/view?usp=sharing)
+- 📝 Checkout my [Portfolio](https://motalibpathan.vercel.app) & [Resume](https://drive.google.com/file/d/1swgpUH9eQijyP7hRAOA4TkxHHwx12jCN/view?usp=sharing)
   <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
   <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
