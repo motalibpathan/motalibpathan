@@ -66,7 +66,7 @@
 
 <br />
 <br />
-
+<!-- 
 ### New Year Technology Learning Resolutions (2024)
 
 | Technology             | Already Know | In 2023               | In 2024                        |
@@ -93,6 +93,7 @@
 | Docker and AWS         |              |                       | ☐ Yes                          |
 | Rust                   |              |                       | ☐ Yes                          |
 | Ai/Machine Learning    |              |                       | ☐ Yes                          |
+-->
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary> -->
