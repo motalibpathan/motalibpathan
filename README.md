@@ -10,9 +10,9 @@
 
 ## I'm a Full stack web developer MERN!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=motalibpathan&style=flat-square&color=0088cc)
 
-- 🌱 I’m currently working on Next.js | TypeScript | React Native 🤣
+- 🌱 Currently mastering Next.js, TypeScript, and React Native.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2024 Goals: Learn more about More deep about Next.js App Router, Prisma, GraphQL, Postgresql, Docker and AWS.
+<!-- - 🥅 Exploring Prisma, GraphQL, PostgreSQL, Docker, and AWS to expand my tech stack. -->
 - 🔭 I have completed a BSc in CSE from South East University.
 - 📝 Checkout my [Portfolio](https://motalibpathan.vercel.app) & [Resume](https://drive.google.com/file/d/1swgpUH9eQijyP7hRAOA4TkxHHwx12jCN/view?usp=sharing)
   <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
